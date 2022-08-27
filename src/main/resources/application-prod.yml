@@ -1,0 +1,6 @@
+wx:
+  server:
+    token: ${WX_TOKEN:demotoken}
+    app-id: ${WX_APP_ID:demoappid}
+    app-secret: ${WX_APP_SECRET:demoappsecret}
+    aes-key: ${WX_ENCODING_AES_KEY:demoaeskey}

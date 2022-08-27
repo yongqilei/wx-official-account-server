@@ -1,0 +1,5 @@
+wx:
+  server:
+    token: ${wx_token:0229ea03cc8e3bfe7}
+    app-id: ${wx_app_id:wx63a96f384c1dcf1d}
+    app-secret: ${wx_app_secret:24a3e28e6202947e953bd2a4e05aee8c}
